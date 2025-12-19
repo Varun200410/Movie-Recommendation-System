@@ -1,1 +1,1 @@
-# Movie-Recommendation-System
+A movie recommendation system using machine learning suggests films to users based on their preferences, viewing history, and ratings. It analyzes user behavior and movie features using techniques like collaborative and content-based filtering to deliver personalized, relevant, and engaging movie recommendations.# Movie-Recommendation-System
